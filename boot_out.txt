@@ -1,0 +1,4 @@
+Adafruit CircuitPython 10.0.3 on 2025-10-17; M5Stack Stamp-S3 with ESP32-S3FN8
+Board ID:m5stack_stamp_s3
+UID:8D58CA5ADA08
+MAC:00:00:00:00:50:B7
